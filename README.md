@@ -3,9 +3,8 @@
 
 
 <p align="center">
-  <a href="http://mulieric.skylabstech.co.ke/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/ericmuli/">Linkedin</a> - 
-  <a href="https://twitter.com/muli_eriq">Twitter</a>
+  <a href="https://www.linkedin.com/in/clinton-sang/">Linkedin</a> - 
+  <a href="https://twitter.com/clintonksang">Twitter</a>
 </p>
 
 -----------------------------------------------------------
@@ -47,9 +46,8 @@ I spend most of my time building mobile(Flutter), Javascript, and server-side ap
 
 
 
-## Languages
+## Languages & Frameworks
 
-<a><img align="left" alt="Kotlin" width="30px" src="https://mk0sigezamu77feo2fi6.kinstacdn.com/wp-content/uploads/2017/07/logo_500x500.png" /><a/>
 <a><img align="left" alt="Flutter" width="30px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" /><a/>
 <a><img align="left" alt="Dart" width="30px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" /><a/>
 
