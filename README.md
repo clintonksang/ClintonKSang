@@ -8,7 +8,7 @@
 </p>
 
 -----------------------------------------------------------
-I'm Clinton Sang a software developer based in Kenya.
+I'm Clinton Sang 
 
 I spend most of my time building mobile(Flutter), Javascript, and server-side applications (Node.js).
 
