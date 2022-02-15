@@ -42,7 +42,9 @@ I spend most of my time building mobile(Flutter), Javascript, and server-side ap
   
 </table>
 
-[![Clinton's github activity graph](https://activity-graph.herokuapp.com/graph?username=clintonksang&theme=cotton candy)](https://github.com/clintonksang/github-readme-activity-graph)
+<table>
+  [![Clinton's github activity graph](https://activity-graph.herokuapp.com/graph?username=clintonksang)](https://github.com/clintonksang/github-readme-activity-graph)
+</table>
 
 ## Languages & Frameworks
 
