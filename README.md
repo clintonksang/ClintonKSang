@@ -34,9 +34,7 @@ I spend most of my time building mobile(Flutter), Javascript, and server-side ap
     
   </tr>   
   
-   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=clintonksang)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   
-  
+
   
   </tr>
   
@@ -44,8 +42,7 @@ I spend most of my time building mobile(Flutter), Javascript, and server-side ap
   
 </table>
 
-   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=clintonksang)](https://github.com/clintonksang/github-readme-activity-graph)
-   
+
 
 ## Languages & Frameworks
 
