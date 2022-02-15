@@ -35,16 +35,14 @@ I spend most of my time building mobile(Flutter), Javascript, and server-side ap
   </tr>   
   
 
-  
+  [![Clinton's github activity graph](https://activity-graph.herokuapp.com/graph?username=clintonksang)](https://github.com/clintonksang/github-readme-activity-graph)
   </tr>
   
        
   
 </table>
 
-<table>
-  [![Clinton's github activity graph](https://activity-graph.herokuapp.com/graph?username=clintonksang)](https://github.com/clintonksang/github-readme-activity-graph)
-</table>
+ 
 
 ## Languages & Frameworks
 
