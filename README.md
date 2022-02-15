@@ -34,7 +34,7 @@ I spend most of my time building mobile(Flutter), Javascript, and server-side ap
     
   </tr>   
   
-[![Clinton's github activity graph](https://activity-graph.herokuapp.com/graph?username=clintonksang&theme=github)](https://github.com/clintonksang/github-readme-activity-graph)
+[![Clinton's github activity graph](https://activity-graph.herokuapp.com/graph?username=clintonksang&theme=react-dark)](https://github.com/clintonksang/github-readme-activity-graph)
   
   </tr>
   
