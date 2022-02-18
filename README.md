@@ -14,7 +14,7 @@ I spend most of my time building mobile(Flutter), Javascript, and server-side ap
 
 
 
-- 🌱 I’m currently learning ... Swift and Solidity
+- 🌱 I’m currently learning ... Swift and Kotlin
 - 💬 Ask me anything about Flutter
 - I am open to explore  and learn
 
