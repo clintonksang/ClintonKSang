@@ -12,6 +12,8 @@ I'm Clinton Sang
 
 I spend most of my time building mobile(Flutter), Javascript, and server-side applications (Node.js).
 
+As for now, My github Activity reduced due to use of Azure DevOps.
+
 
 
 - 🌱 I’m currently learning ... Swift and Kotlin
